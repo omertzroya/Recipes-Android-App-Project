@@ -54,7 +54,7 @@ To get started with Recipes Android App:
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/omertzroya/Recipes-App-Final-Project-Android1-HIT.git
+    git clone https://github.com/omertzroya/Recipes-App-Final-Project-Android1-HITCollege.git
     ```
 
 2. Open the project in Android Studio.
